@@ -4,7 +4,7 @@
 
 ![MIB Store Logo](https://img.shields.io/badge/🇮🇳_MIB_Store-Made_in_Bharat-orange?style=for-the-badge)
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.5.7-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2.1-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
@@ -92,7 +92,7 @@ I chose each technology carefully to build a scalable, performant, and maintaina
 
 ### **Frontend**
 ```javascript
-Next.js 15.1.6      // Framework with App Router & SSR
+Next.js 15.5.7      // Framework with App Router & SSR
 React 19.2.1        // UI Library with latest features
 Tailwind CSS 3.4.1  // Styling & responsive design
 React Hot Toast     // User notifications
@@ -448,5 +448,6 @@ This project is my contribution to the **Atmanirbhar Bharat (Self-Reliant India)
 </div>
 
 ### Products API
-#   M I B - S t o r e - - - E - C o m m e r c e - P l a t f o r m  
+#   M I B - S t o r e - - - E - C o m m e r c e - P l a t f o r m 
+ 
  
